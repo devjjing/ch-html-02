@@ -1,0 +1,51 @@
+b{
+    padding: 15px;
+    font-family: "Century Gothic", sans-serif;
+}
+
+.text{
+    font-family: "Arial", sans-serif;
+    padding: 12px;
+}
+
+h1{
+    margin: 5px;
+    color: aqua;
+}
+
+#myShop{
+    color: white;
+    margin: 5px;
+    align-items: center;
+    font-size: 24px;
+    font-family: "Bahnschrift", sans-serif;
+    padding: 18px;
+    border: 2px solid;
+    width: 35%;
+    text-align: center;
+}
+
+#fruits{
+    font-size: 30px;
+    font-family: "Bahnschrift", sans-serif;
+}
+
+.media{
+    margin: 15px;
+}
+
+#Nr1{
+    color: gold;
+}
+
+#Nr2{
+    color: silver;
+}
+
+#Nr3{
+    color: sandybrown;
+}
+
+footer{
+    font-family: "Segoe UI", sans-serif;
+}
